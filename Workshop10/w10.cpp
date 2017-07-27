@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     sd.backup(argv[2]);
 
     sd.restore(argv[2], key);
-    std::cout  << "-->" << sd << "<--" << std::endl;
+    std::cout << sd << std::endl;
 
   }
   catch (const std::string& msg) {

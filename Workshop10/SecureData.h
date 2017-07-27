@@ -9,7 +9,9 @@ namespace w10 {
   public:
     char operator()(char in, char key) const { return in ^ key; }
   };
-  void converter(char*, char, int, const Cryptor&);
+  //void converter(char*, char, int, const Cryptor&);
+
+  void converter(char*, char, int, int, const Cryptor&);
 
   class SecureData {
     char* text;
