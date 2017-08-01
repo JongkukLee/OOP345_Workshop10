@@ -1,3 +1,16 @@
+// OOP345 Workshop 10: Multi-Threading
+// File w10.cpp
+// Version 1.0
+// Date 2017-08-04
+// Author Jongkuk Lee ( jlee465@myseneca.ca, 127730158 )
+// Description
+//      This file is a test file for Workshop10.
+//
+// Revision History
+///////////////////////////////////////////////////////////
+// Name     Date    Reason
+//
+///////////////////////////////////////////////////////////
 // Workshop 10 - Multi-Threading
 // w10.cpp
 
